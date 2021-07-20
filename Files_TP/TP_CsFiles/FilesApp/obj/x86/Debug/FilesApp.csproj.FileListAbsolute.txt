@@ -1,0 +1,8 @@
+C:\Users\Ambratolm\Desktop\TP_CsFiles\FilesApp\bin\Debug\FilesApp.exe
+C:\Users\Ambratolm\Desktop\TP_CsFiles\FilesApp\bin\Debug\FilesApp.pdb
+C:\Users\Ambratolm\Desktop\TP_CsFiles\FilesApp\obj\x86\Debug\FilesApp.FormMain.resources
+C:\Users\Ambratolm\Desktop\TP_CsFiles\FilesApp\obj\x86\Debug\FilesApp.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\TP_CsFiles\FilesApp\obj\x86\Debug\FilesApp.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\TP_CsFiles\FilesApp\obj\x86\Debug\FilesApp.exe
+C:\Users\Ambratolm\Desktop\TP_CsFiles\FilesApp\obj\x86\Debug\FilesApp.pdb
+C:\Users\Ambratolm\Desktop\TP_CsFiles\FilesApp\obj\x86\Debug\FilesApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Ambratolm\Desktop\CustomCollections\CustomCollections\bin\Debug\CustomCollections.exe
+C:\Users\Ambratolm\Desktop\CustomCollections\CustomCollections\bin\Debug\CustomCollections.pdb
+C:\Users\Ambratolm\Desktop\CustomCollections\CustomCollections\obj\x86\Debug\CustomCollections.exe
+C:\Users\Ambratolm\Desktop\CustomCollections\CustomCollections\obj\x86\Debug\CustomCollections.pdb
+C:\Users\Ambratolm\Desktop\CustomCollections\CustomCollections\obj\x86\Debug\CustomCollections.csprojResolveAssemblyReference.cache

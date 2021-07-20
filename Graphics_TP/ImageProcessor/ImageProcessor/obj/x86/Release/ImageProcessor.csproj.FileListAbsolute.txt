@@ -1,0 +1,9 @@
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\bin\Release\ImageProcessor.exe.config
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\bin\Release\ImageProcessor.exe
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\bin\Release\ImageProcessor.pdb
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Release\ImageProcessor.FormCompare.resources
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Release\ImageProcessor.FormMain.resources
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Release\ImageProcessor.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Release\ImageProcessor.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Release\ImageProcessor.exe
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Release\ImageProcessor.pdb

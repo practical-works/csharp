@@ -1,0 +1,8 @@
+C:\Users\Ambratolm\Desktop\GraphicsManipulator\GraphicsManipulator\bin\Debug\GraphicsManipulator.exe
+C:\Users\Ambratolm\Desktop\GraphicsManipulator\GraphicsManipulator\bin\Debug\GraphicsManipulator.pdb
+C:\Users\Ambratolm\Desktop\GraphicsManipulator\GraphicsManipulator\obj\x86\Debug\GraphicsManipulator.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\GraphicsManipulator\GraphicsManipulator\obj\x86\Debug\GraphicsManipulator.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\GraphicsManipulator\GraphicsManipulator\obj\x86\Debug\GraphicsManipulator.exe
+C:\Users\Ambratolm\Desktop\GraphicsManipulator\GraphicsManipulator\obj\x86\Debug\GraphicsManipulator.pdb
+C:\Users\Ambratolm\Desktop\GraphicsManipulator\GraphicsManipulator\obj\x86\Debug\GraphicsManipulator.FormMain.resources
+C:\Users\Ambratolm\Desktop\GraphicsManipulator\GraphicsManipulator\obj\x86\Debug\GraphicsManipulator.csprojResolveAssemblyReference.cache

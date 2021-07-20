@@ -1,0 +1,9 @@
+C:\Users\Ambratolm\Desktop\TP_Generalities\TP_Generalities\obj\x86\Debug\TP_Generalities.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\TP_Generalities\TP_Generalities\obj\x86\Debug\TP_Generalities.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\TP_Generalities\TP_Generalities\bin\Debug\TP_Generalities.exe
+C:\Users\Ambratolm\Desktop\TP_Generalities\TP_Generalities\bin\Debug\TP_Generalities.pdb
+C:\Users\Ambratolm\Desktop\TP_Generalities\TP_Generalities\obj\x86\Debug\TP_Generalities.exe
+C:\Users\Ambratolm\Desktop\TP_Generalities\TP_Generalities\obj\x86\Debug\TP_Generalities.pdb
+C:\Users\Ambratolm\Desktop\TP_Generalities\TP_Generalities\obj\x86\Debug\TP_Generalities.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\TP_Generalities\TP_Generalities\obj\x86\Debug\TP_Generalities.FormMain.resources
+C:\Users\Ambratolm\Desktop\TP_Generalities\TP_Generalities\obj\x86\Debug\TP_Generalities.Form1.resources

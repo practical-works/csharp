@@ -1,0 +1,11 @@
+﻿0 + (0) = 2
+1 + (0) = 3
+2 + (-0) = 0
+3 + (-0) = 1
+
+
+0-salima 1-houda 2-soukaina 3-...  	front=0;rear=2
+0-... 1-houda 2-soukaina 3-...     	front=1;rear=2
+0-... 1-houda 2-soukaina 3-nisrin  	front=1;rear=3
+
+0-katarina 1-houda 2-soukaina 3-nisrin 	front=1;rear=0

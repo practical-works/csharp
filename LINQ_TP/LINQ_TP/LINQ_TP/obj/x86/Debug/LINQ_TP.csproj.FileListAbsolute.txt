@@ -1,0 +1,7 @@
+C:\Users\Ambratolm\Desktop\TP_LINQ (C#)\LINQ_TP\LINQ_TP\bin\Debug\LINQ_TP.exe
+C:\Users\Ambratolm\Desktop\TP_LINQ (C#)\LINQ_TP\LINQ_TP\bin\Debug\LINQ_TP.pdb
+C:\Users\Ambratolm\Desktop\TP_LINQ (C#)\LINQ_TP\LINQ_TP\obj\x86\Debug\LINQ_TP.exe
+C:\Users\Ambratolm\Desktop\TP_LINQ (C#)\LINQ_TP\LINQ_TP\obj\x86\Debug\LINQ_TP.pdb
+C:\Users\Ambratolm\Desktop\TP_LINQ (C#)\LINQ_TP\LINQ_TP\obj\x86\Debug\LINQ_TP.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\#Dev_TP\C#.NET_TP\C# .NET_TP_@\LINQ_TP\LINQ_TP\LINQ_TP\obj\x86\Debug\LINQ_TP.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\#Dev_TP\C#.NET_TP\C# .NET_TP_@\LINQ_TP\LINQ_TP\LINQ_TP\obj\x86\Debug\LINQ_TP.pdb

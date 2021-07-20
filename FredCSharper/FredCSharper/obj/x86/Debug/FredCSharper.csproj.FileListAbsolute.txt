@@ -1,0 +1,8 @@
+C:\Users\Ambratolm\Desktop\FredCSharper\FredCSharper\bin\Debug\FredCSharper.exe
+C:\Users\Ambratolm\Desktop\FredCSharper\FredCSharper\bin\Debug\FredCSharper.pdb
+C:\Users\Ambratolm\Desktop\FredCSharper\FredCSharper\obj\x86\Debug\FredCSharper.FormMain.resources
+C:\Users\Ambratolm\Desktop\FredCSharper\FredCSharper\obj\x86\Debug\FredCSharper.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\FredCSharper\FredCSharper\obj\x86\Debug\FredCSharper.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\FredCSharper\FredCSharper\obj\x86\Debug\FredCSharper.exe
+C:\Users\Ambratolm\Desktop\FredCSharper\FredCSharper\obj\x86\Debug\FredCSharper.pdb
+C:\Users\Ambratolm\Desktop\FredCSharper\FredCSharper\obj\x86\Debug\FredCSharper.csprojResolveAssemblyReference.cache

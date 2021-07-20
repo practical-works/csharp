@@ -1,0 +1,10 @@
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Debug\ImageProcessor.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Debug\ImageProcessor.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.pdb
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Debug\ImageProcessor.exe
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Debug\ImageProcessor.pdb
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Debug\ImageProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Debug\ImageProcessor.FormCompare.resources
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\obj\x86\Debug\ImageProcessor.FormMain.resources
+C:\Users\Ambratolm\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe.config

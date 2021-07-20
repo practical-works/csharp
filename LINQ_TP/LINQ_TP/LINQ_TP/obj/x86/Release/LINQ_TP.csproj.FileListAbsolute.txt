@@ -1,0 +1,4 @@
+C:\Users\Ambratolm\Desktop\TP_LINQ (C#)\LINQ_TP\LINQ_TP\bin\Release\LINQ_TP.exe
+C:\Users\Ambratolm\Desktop\TP_LINQ (C#)\LINQ_TP\LINQ_TP\bin\Release\LINQ_TP.pdb
+C:\Users\Ambratolm\Desktop\TP_LINQ (C#)\LINQ_TP\LINQ_TP\obj\x86\Release\LINQ_TP.exe
+C:\Users\Ambratolm\Desktop\TP_LINQ (C#)\LINQ_TP\LINQ_TP\obj\x86\Release\LINQ_TP.pdb

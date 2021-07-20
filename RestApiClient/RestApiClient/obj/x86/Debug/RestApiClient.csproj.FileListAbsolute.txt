@@ -1,0 +1,12 @@
+C:\Users\Ambratolm\Desktop\RestApiClient\RestApiClient\bin\Debug\RestApiClient.exe
+C:\Users\Ambratolm\Desktop\RestApiClient\RestApiClient\bin\Debug\RestApiClient.pdb
+C:\Users\Ambratolm\Desktop\RestApiClient\RestApiClient\obj\x86\Debug\RestApiClient.exe
+C:\Users\Ambratolm\Desktop\RestApiClient\RestApiClient\obj\x86\Debug\RestApiClient.pdb
+C:\Users\Ambratolm\Desktop\RestApiClient\RestApiClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ambratolm\Desktop\RestApiClient\RestApiClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ambratolm\Desktop\RestApiClient\RestApiClient\obj\x86\Debug\RestApiClient.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RestApiClient\RestApiClient\bin\Debug\RestApiClient.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RestApiClient\RestApiClient\obj\x86\Debug\RestApiClient.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\RestApiClient\RestApiClient\obj\x86\Debug\RestApiClient.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\RestApiClient\RestApiClient\obj\x86\Debug\RestApiClient.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\RestApiClient\RestApiClient\obj\x86\Debug\RestApiClient.pdb

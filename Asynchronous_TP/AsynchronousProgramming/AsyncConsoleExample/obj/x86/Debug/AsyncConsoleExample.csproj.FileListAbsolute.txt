@@ -1,0 +1,6 @@
+C:\Users\Ambratolm\Desktop\AsynchronousProgramming\AsyncConsoleExample\bin\Debug\AsyncConsoleExample.exe
+C:\Users\Ambratolm\Desktop\AsynchronousProgramming\AsyncConsoleExample\bin\Debug\AsyncConsoleExample.pdb
+C:\Users\Ambratolm\Desktop\AsynchronousProgramming\AsyncConsoleExample\obj\x86\Debug\AsyncConsoleExample.exe
+C:\Users\Ambratolm\Desktop\AsynchronousProgramming\AsyncConsoleExample\obj\x86\Debug\AsyncConsoleExample.pdb
+C:\Users\Ambratolm\Desktop\AsynchronousProgramming\AsyncConsoleExample\obj\x86\Debug\AsyncConsoleExample.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\AsynchronousProgramming\AsyncConsoleExample\obj\x86\Debug\AsyncConsoleExample.csproj.GenerateResource.Cache

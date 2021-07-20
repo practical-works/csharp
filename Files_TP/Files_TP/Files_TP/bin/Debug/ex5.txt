@@ -1,0 +1,3 @@
+Hello and Welcome
+It is the first content
+nof the text file ex5.txt

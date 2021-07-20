@@ -1,0 +1,4 @@
+C:\Users\Ambratolm\Desktop\TP_Files (C#)\Files_TP\Files_TP\bin\Debug\Files_TP.exe
+C:\Users\Ambratolm\Desktop\TP_Files (C#)\Files_TP\Files_TP\bin\Debug\Files_TP.pdb
+C:\Users\Ambratolm\Desktop\TP_Files (C#)\Files_TP\Files_TP\obj\x86\Debug\Files_TP.exe
+C:\Users\Ambratolm\Desktop\TP_Files (C#)\Files_TP\Files_TP\obj\x86\Debug\Files_TP.pdb
